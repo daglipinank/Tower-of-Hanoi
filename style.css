@@ -1,0 +1,61 @@
+.col1{
+  height:600px;
+  width: 375px;
+  border: 5px solid black;
+  display: inline-block;
+  position: relative;
+}
+.col2{
+  height:600px;
+  width: 375px;
+  border: 5px solid black;
+  display: inline-block;
+  position: relative;
+}
+.col3{
+  height:600px;
+  width: 375px;
+  border: 5px solid black;
+  display: inline-block;
+  position: relative;
+}
+.col1:hover {
+  background-color: #FFFF99
+}
+.col2:hover {
+  background-color: #FFFF99
+}
+.col3:hover{
+  background-color: #FFFF99
+}
+.base { 
+  position: absolute;
+  bottom: 0;
+}
+.tiles3 {
+  height: 100px;
+  width:375px;
+  background-color: red;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 35%;
+  border:3px solid black;
+}
+.tiles2 {
+  height: 100px;
+  width:275px;
+  background-color: orange;  
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 35%;
+  border:3px solid black;
+}
+.tiles1 {
+  height: 100px;
+  width:175px;
+  background-color: yellow;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 35%;
+  border:3px solid black;
+}
